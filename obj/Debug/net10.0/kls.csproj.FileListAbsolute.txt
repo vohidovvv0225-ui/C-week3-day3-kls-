@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/ C#2/week3/day3/kls/bin/Debug/net10.0/kls
+/Users/macbook/Desktop/ C#2/week3/day3/kls/bin/Debug/net10.0/kls.deps.json
+/Users/macbook/Desktop/ C#2/week3/day3/kls/bin/Debug/net10.0/kls.runtimeconfig.json
+/Users/macbook/Desktop/ C#2/week3/day3/kls/bin/Debug/net10.0/kls.dll
+/Users/macbook/Desktop/ C#2/week3/day3/kls/bin/Debug/net10.0/kls.pdb
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.AssemblyInfo.cs
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.dll
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/refint/kls.dll
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.pdb
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/kls.genruntimeconfig.cache
+/Users/macbook/Desktop/ C#2/week3/day3/kls/obj/Debug/net10.0/ref/kls.dll
